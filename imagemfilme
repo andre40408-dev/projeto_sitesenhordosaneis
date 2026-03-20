@@ -1,4 +1,3 @@
-curiosidades.html
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -19,7 +18,7 @@ curiosidades.html
                 <a href="informações.html">Informações</a>
                 <a href="Ordemdosfilmes.html">Ordem dos Filmes</a>
                 <a href="curiosidades.html">Curiosidades</a>
-                <a href="ImpactoCultural.html">Imapcto Cultural</a>
+                <a href="ImpactoCultural.html">Impacto Cultural</a>
             </nav>
     </div>
     <h2 class="titulo_secundario">Imagem do filme</h2>
