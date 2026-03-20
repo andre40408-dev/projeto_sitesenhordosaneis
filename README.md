@@ -1,2 +1,0 @@
-# projeto_sitesenhordosaneis
-Sobre essa Saga Cinematográfica
